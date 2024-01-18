@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Svetlana-Maltisova
-- 👀 I’m interested in UX/UI Design
+- 👀 I’m interested in data analysis
 - 🌱 I’m currently learning basics of programming
-- 💞️ I’m looking to collaborate on mobile application development
 - 📫 How to reach me svetlana.maltisova@gmail.com
 
 <!---
